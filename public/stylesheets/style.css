@@ -12,6 +12,9 @@ li {
   padding-right: 1rem;
   color: #f00;
 }
+body {
+  background-image: url("http://lorempixel.com/1200/600/nightlife/7/Mined%20Minds/");
+}
 #wrapper {
   width: 920px;
   text-align: left;
